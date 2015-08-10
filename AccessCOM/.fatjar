@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Aug 30 18:25:31 GMT+10:00 2009
+onejar.license.required=false
+manifest.classpath=lib/jacob.jar
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=accesscom.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
